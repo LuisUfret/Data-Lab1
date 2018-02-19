@@ -1,0 +1,4 @@
+
+(process:3533): indicator-sound-WARNING **: volume-control-pulse.vala:744: Unable to connect to dbus server at 'unix:path=/run/user/1868004375/pulse/dbus-socket': Could not connect: No such file or directory
+
+(process:3533): AccountsService-WARNING **: ActUserManager: user (null) has no username (object path: /org/freedesktop/Accounts/User1868004375, uid: 0)

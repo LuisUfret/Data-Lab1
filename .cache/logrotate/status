@@ -1,0 +1,13 @@
+logrotate state -- version 2
+"/home/students/4020a10/.cache/upstart/unity-settings-daemon.log" 2018-2-19-10:0:0
+"/home/students/4020a10/.cache/upstart/unity7.log" 2018-2-19-10:0:0
+"/home/students/4020a10/.cache/upstart/upstart-event-bridge.log" 2018-2-19-10:0:0
+"/home/students/4020a10/.cache/upstart/indicator-sound.log" 2018-2-19-10:0:0
+"/home/students/4020a10/.cache/upstart/gnome-keyring-ssh.log" 2018-2-19-10:0:0
+"/home/students/4020a10/.cache/upstart/unity-panel-service.log" 2018-2-19-10:0:0
+"/home/students/4020a10/.cache/upstart/dbus.log" 2018-2-19-10:0:0
+"/home/students/4020a10/.cache/upstart/ssh-agent.log" 2018-2-19-10:0:0
+"/home/students/4020a10/.cache/upstart/window-stack-bridge.log" 2018-2-19-10:0:0
+"/home/students/4020a10/.cache/upstart/update-notifier-release.log" 2018-2-19-10:0:0
+"/home/students/4020a10/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_compiz.1868004260.crash.log" 2018-2-19-10:0:0
+"/home/students/4020a10/.cache/upstart/gpg-agent.log" 2018-2-19-10:0:0
